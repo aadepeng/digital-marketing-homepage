@@ -1,6 +1,6 @@
 # Digital Marketing Homepage
 
->Live Link : [Digital Marketing](https://google.com)
+>Live Link : [Digital Marketing](https://digitalmarketing-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/digital-marketing-homepage/main/Digital%20Marketing%20Homepage.png)
